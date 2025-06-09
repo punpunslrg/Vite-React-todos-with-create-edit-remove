@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base: '/React-Note-with-create-edit-delete/',
+  base: '/Vite-React-todos-with-create-edit-remove/',
 })
