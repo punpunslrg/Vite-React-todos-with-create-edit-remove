@@ -11,7 +11,7 @@
     "api": "json-server ./db/data.json --port 10000",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://punpunslrg.github.io/Vite-React-todos-with-create-edit-remove/"
+    "homepage": "/Vite-React-todos-with-create-edit-remove/"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",
