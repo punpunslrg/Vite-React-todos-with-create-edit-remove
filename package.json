@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "/Vite-React-todos-with-create-edit-remove/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,8 +11,7 @@
     "preview": "vite preview",
     "api": "json-server ./db/data.json --port 10000",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "homepage": "/Vite-React-todos-with-create-edit-remove/"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",
